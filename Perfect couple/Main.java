@@ -24,6 +24,8 @@ int main()
     check_sum_and_display(arr, size, sum);
     return 0;
 }
+Perfect couple
+
 
 void check_sum_and_display(int arr[], int size, int sum)
 {
